@@ -12,5 +12,3 @@ cd macchanger
 ls
 
 Sudden bash macchanger.sh.save
-
-
