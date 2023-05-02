@@ -1,4 +1,16 @@
 # macchanger
-This will change mac address in simple way 
+Installation in kali linux:
+
+sudo apt update && upgrade
+
+git clone 
+
+ls
+
+cd macchanger
+
+ls
+
+Sudden bash macchanger.sh.save
 
 
