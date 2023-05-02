@@ -3,7 +3,7 @@ Installation in kali linux:
 
 sudo apt update && upgrade
 
-git clone 
+git clone https://github.com/ngfdfzdg/macchanger.git
 
 ls
 
